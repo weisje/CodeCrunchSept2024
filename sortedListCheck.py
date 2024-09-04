@@ -16,6 +16,7 @@ def listSortCheck(listToCheck) -> bool:
 
     return ascending or descending
 
+
 def main():
     listToCheck = [1,2,3,4,5]
     result = listSortCheck(listToCheck)
